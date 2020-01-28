@@ -1,0 +1,14 @@
+1.	Project and dataset
+My project will be to predict the chance of a person to have. The dataset I chose is from Kaggle, called: “Cardiovascular Disease dataset, The dataset consists of 70 000 records of patients data, 11 features + target.”[1] 。
+
+2.	Methodology
+1)	Data Preprocessing and machine Learning Model
+I’ll use the 11 features of people and try to find different features’ weight on people’s possibilities to have the disease(using the training section of the data). Then I will use the valid set of data to test my model and facilitate it considering the percentage of correct prediction. Then I will test the best model using the test data set, and figure out the correct prediction rate of this model. 
+
+
+2)	Final Conceptualization
+I can use this model to predict the chance of a person whether having disease based on his or her 11 features. Also, from my model, I can conclude most significant factors that lead to the cardiovascular disease.
+
+
+References:
+[1] Svetlana Ulianova (2019). Cardiovascular Disease dataset. [online]  https://www.kaggle.com/jpayne/852k-used-car-listings .
